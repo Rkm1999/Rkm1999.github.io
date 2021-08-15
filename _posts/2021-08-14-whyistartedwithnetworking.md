@@ -1,6 +1,6 @@
 ---
-title:  "About me"
-excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. first post"
+title:  "Why I started with networking"
+excerpt:
 
 toc: true
 toc_sticky: true
@@ -9,13 +9,9 @@ date: 2021-08-14
 last_modified_at: 2020-08-14
 ---
 
-# About me
-Currently living at Vancouver, British Columbia, Canada. Trying to get into network industry. Have acheived [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and working on [Devnet](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/devnet/cisco-certified-devnet-associate.html). 
-
-
 
 # Why I started with networking
-First, I found out about this industry with a Ad. I was just browing on YouTube and I saw a [Ad](https://youtu.be/VMcvOVTXAZc) and
+One day, I was just browing on YouTube and I found out about this industry with a Ad. I saw a [Ad](https://youtu.be/VMcvOVTXAZc) and
 
 >Isn't it perfect opportunity to me? I didn't go to the university (Well... I didn't graduate high school) and was into electronic building and repairs and had some experiences with it.
 
@@ -35,7 +31,3 @@ That's what you need for basic help desk kind of jobs, but it's pretty recent an
 I searched up more and found out [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and [Comptia A+](https://www.comptia.org/certifications/a) is most popular certification for starter. I compared between two and chose to go with CCNA
 
 Reasons I came up was First I had some experience with contents on Comptia A+ but I dind't have experience with contents on CCNA! Of course, salary was one of the reason. On the paper CCNA have average of 60K and Comptia A+ have average of 50K. And it seemed like networking had more potential to me. Every companies have networking and they will need someone to manage it and with this virus going on right now (as 2021) most company started to offer remote work and of course it will require someone to manage it.
-
-
-
-# How I study it
