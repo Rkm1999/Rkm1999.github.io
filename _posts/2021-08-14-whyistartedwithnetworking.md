@@ -1,6 +1,6 @@
 ---
 title:  "Why I started with networking"
-excerpt:
+excerpt: story about how I got into indurstry
 
 toc: true
 toc_sticky: true
