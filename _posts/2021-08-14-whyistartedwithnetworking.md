@@ -1,12 +1,12 @@
 ---
 title:  "Why I started with networking"
-excerpt: story about how I got into indurstry
+excerpt: Why I chose Networking path
 
 toc: true
 toc_sticky: true
  
 date: 2021-08-14
-last_modified_at: 2020-08-14
+last_modified_at: 2020-08-16
 ---
 
 
