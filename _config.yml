@@ -15,15 +15,15 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Kwangmin's network devlog"
-title_separator          : "-"
+locale                   : "en-CA"
+title                    : "My Awesome Site is the Best Because I Say So"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kwangmin Ryu"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Documenting all of my work on networking."
+url                      : "https://Rkm1999.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Rkm1999/Rkm1999.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Kwangmin Ryu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Trying to get into network industry. Have acheived [**CCNA**](https://www.credly.com/badges/344b174d-7a55-4540-b929-f052c9ddb015) and working on [Devnet](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/devnet/cisco-certified-devnet-associate.html). And interested in network as a code, network CI/CD, and kubernetes."
+  bio              : "Trying to get into network industry. Have acheived [**CCNA**](https://www.credly.com/badges/344b174d-7a55-4540-b929-f052c9ddb015) and currently working on [**Devnet**](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/devnet/cisco-certified-devnet-associate.html). Interested in network as a code, network CI/CD, and kubernetes."
   location         : "Vancouver, Canada"
   email            :
   links:
