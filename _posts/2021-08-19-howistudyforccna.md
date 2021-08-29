@@ -22,4 +22,4 @@ Well.... that was not good idea. First few topics were okay. But when I got into
 
 ## CBTNUGGET
 
-I searched up and found out CBTNUGGET have one of popular study guide(Also found out official guide isn't that useful). It give you 1 week trail so I tried it and it was awesome. It give you videos to study so you can do on your on pace and shows how many hours left so you can track how far you went. 
+I searched up and found out CBTNUGGET have one of popular study guide <del>Also found out official guide isn't that useful</del>. It give you 1 week trail so I tried it and it was awesome. It give you videos to study so you can do on your on pace and shows how many hours left so you can track how far you went. 

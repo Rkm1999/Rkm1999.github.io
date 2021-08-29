@@ -13,7 +13,7 @@ last_modified_at: 2020-08-19
 # Why I started with networking
 One day, I was just browing on YouTube and I found out about this industry with a Ad. I saw a [Ad](https://youtu.be/VMcvOVTXAZc) and
 
->Isn't it great opportunity to me? I didn't go to the university (Well... I didn't graduate high school) and was into computer building and repairs and had some experiences with it.
+>Isn't it great opportunity to me? I didn't go to the university (<del>Well... I didn't graduate high school</del>) and was into computer building and repairs and had some experiences with it.
 
 So I decied to start it right away. And I changed my mind about Ads. Sometimes something little as Ad could change your whole life.
 
