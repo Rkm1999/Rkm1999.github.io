@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kwangmin Ryu"
 description              : "Documenting all of my work on networking."
-url                      : "https://Rkm1999.github.io"
+url                      : "https://kwangmin.dev"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Rkm1999/Rkm1999.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
