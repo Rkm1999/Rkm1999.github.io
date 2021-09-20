@@ -42,4 +42,9 @@ For the equipment, you will be fine with 1 router and 1 switch. you will get to 
 
 ## ExSim-Max
 
-So I got study guide and equipment ready. I'm ready to pass test, right? Actualy, no. I book for first test and I got score 772 but passing score was 825. I knew most of topic and know how to set it up, but questions were not what I thought it would be. What I thought was more right if you know it show how you do it. It was used to be right that, but they changed to did you memorize it. They even had a question asking which tab do you go to set this in GUI. What a dumb question, **YOU JUST NEED TO GO ANOTHER TAB IF IT DOESN'T HAVE IT**. They changed to that way because 
+So I got study guide and equipment ready. I'm ready to pass test, right? Actualy, no. I book for first test and I got score 772 but passing score was 825. I knew most of topic and know how to set it up, but questions were not what I thought it would be. What I thought was more right if you know it show how you do it. It was used to be right that, but they changed to did you memorize it. They even had a question asking which tab do you go to set this in GUI. What a dumb question, **YOU JUST NEED TO GO ANOTHER TAB IF IT DOESN'T HAVE IT**. They changed to that way because it was harder for them to make questions testing your skills. So their were people's memorizing it so they just produced bunch of questions to make them harder to memorize. Anyway it's how test works so I need to get comfortable with it. [ExSim-Max](https://www.boson.com/practice-exam/200-301-cisco-ccna-practice-exam) help me alot to get comfortable with tests I had threw.
+
+
+# After all...
+
+So... conclusion? Yes I passed test (https://www.credly.com/badges/344b174d-7a55-4540-b929-f052c9ddb015/linked_in). How many test I took? 3 (Actually it's 4 because my system failed during second test so I had to to rebook and do it again). Was It worth it? definitely. I had fun while working on it. Learn new things and suprised that there is alot going under when I go on youtube and google. So if you are still thinking about it, I highly recommend you to go for it. I hope it has been informative for you.
