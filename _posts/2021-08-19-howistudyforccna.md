@@ -1,6 +1,5 @@
 ---
-title:  "How I study for my CCNA
-"
+title:  "How I study for my CCNA"
 excerpt: What meterials I used to study CCNA
 
 toc: true
