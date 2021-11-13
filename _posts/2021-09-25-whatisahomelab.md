@@ -10,9 +10,10 @@ last_modified_at: 2020-11-09
 ---
 
 
-# HomeLab
+# What is a HomeLab
 
 While I study for CCNA, I got to point where I needed a lab. Either physical or virtual. There is advantage and disadvantage to both physical and virtual lab. 
+
 
 ## Virtual Lab
 
@@ -38,3 +39,8 @@ So, what are the pros to use physical lab over virtual lab. First, hands on expe
 ### Cons
 
 Now, cons of having physical lab. If you try to build physical lab, it will cost alot more than virtual lab. With CCNA, it is idle to have 3 switches and 3 routers. Normally, switches cost around 50-120 CAD and routers cost around 90-170 CAD. That means if you want to setup idle lab, it will cost you around 420 CAD to 870 CAD. And that is only cost for network equipment. You will need ethernet cables, server rack, power outlet, ect. So total cost will be around 500 CAD to 1000 CAD. And enterprise equipment are not meant to run in home environment, so it will consume alot of power, generate heat, and it is very loud.
+
+
+## Conclusion
+
+So, conclusion. Do you need a homelab? If you want to improve your self with hands on skills, definitely yes. What lab should you choose? Well.. it depends on your budget. If you are tight on budget, than you better go with virtual lab. If you have enough, than you can go with physical lab if you want. I went with physical lab because I wanted to have real world experience with homelab implemented to my network and I like to do something with hands on experience. In future article, I will post what equipment I used, what design I used and how I built one. Thank you for reading and I hope it was informative for you
