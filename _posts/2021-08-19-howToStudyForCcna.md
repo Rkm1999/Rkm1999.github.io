@@ -23,16 +23,13 @@ Well.... that was not good idea. First few topics were okay. But when I got into
 
 I searched up and found out [CBTnuggets](https://www.cbtnuggets.com/home) have one of popular study guide <del>Also found out official guide isn't that useful</del>. It give you 1 week trail so I tried it and it was awesome. It give you videos to study so you can do on your on pace and shows how many hours left so you can track how far you went. 
 
-
 ### Study environment
 
 So I carried on with it and while going threw, it showed me 2 way to set up environment for study. One way was using virtual machine to build virtual lab such as [GNS3](https://www.gns3.com) or [CISCO VIRL](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal). Another way was using actual enterprise equipment and build lab with it. 
 
-
 #### Physical lab
 
 I chose to go with physical lab because I like handling actual physical device and I was thinking to implement those equipment to my network and play with it .Of course I'm not buying brand new equipment. Those thing start from few thousands dollars to tens of thousands dollars. But ones that are retiring from enterprise are dirty cheap compare to brand new. And it is enough to study for certification.  
-
 
 ##### My equipment
 
