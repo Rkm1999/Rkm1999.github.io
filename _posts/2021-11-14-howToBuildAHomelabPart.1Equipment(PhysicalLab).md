@@ -1,5 +1,5 @@
 ---
-title:  "How to build a homelab(Part.1)"
+title:  "How to build a homelab Part.1 Equipment (Physical lab)"
 excerpt: Talking about what kind of equipment to build a homelab
 
 toc: true
